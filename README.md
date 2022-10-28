@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Many Projects](https://quizra.herokuapp.com/)
 
-- 🌱 I’m currently learning **Flask and Angular**
+- 🌱 I’m currently learning **Flask and Mern and much more**
 
 - 💬 Ask me about **Css,Boostrap,Html,Javascipt,Flask**
 
