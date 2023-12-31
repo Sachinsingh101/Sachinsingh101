@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Many Projects](https://quizra.herokuapp.com/)
+- 🔭 I’m currently working on Building Myself and my skills.
 
-- 🌱 I’m currently learning **Flask and Mern and much more**
+- 🌱 I’m currently learning **Mern Stack, JAVA, C++, DSA, Problem Solving and much more**
 
-- 💬 Ask me about **Css,Boostrap,Html,Javascipt,Flask**
+- 💬 Ask me about **Css,Boostrap,Html,Javascipt,Flask, JAVA, DSA, C++**
 
 - 📫 How to reach me **sachinkumarsingh51110@gmail.com**
 
-- ⚡ Fun fact **always ready to learn something new**
+- ⚡ Fun fact **Practice and Practice Until you knock out your failure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
