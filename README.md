@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Singh</h1>
 <h3 align="center">A CSE sophomore who loves exploring new field and work on new oppurtunities.</h3>
+<p align="left"> <img src="https://www.mediafire.com/file/2xaew3t132lvc54/anigif.gif/file" alt="" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsingh101&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsingh101" /> </p>
 
